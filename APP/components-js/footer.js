@@ -46,8 +46,7 @@ template.innerHTML = `
                                     <i class="fal fa-map-marker-alt"></i>
                                 </div>
                                 <div class="inner-text">
-                                    30 Commercial Road
-                                    Fratton, Australia 
+                                3B, Alhaja Agbeke Str, Lekki.
                                 </div>
                             </div>
                             <div class="info-item d-flex align-items-center">
@@ -55,8 +54,8 @@ template.innerHTML = `
                                     <i class="fal fa-envelope-open-text"></i>
                                 </div>
                                 <div class="inner-text">
-                                    Fortitude@company.com
-                                    1-888-452-1505 
+                                    info@fortitudeinsurancebroker.com
+                                    08056177035 / 09082333305
                                 </div>
                             </div>
                             <div class="info-item d-flex align-items-center">
@@ -75,15 +74,7 @@ template.innerHTML = `
             <div class="col-lg-3 col-md-6">
                 <div class="in-footer-widget">
                     <div class="menu-widget headline ul-li-block">
-                        <h3 class="widget-title">Our Company</h3>
-                        <ul>
-                            <li><a href="#">Our Story</a></li>
-                            <li><a href="#">News & Blog</a></li>
-                            <li><a href="#">Careers</a></li>
-                            <li><a href="#">Customer Support</a></li>
-                            <li><a href="#">Contact Us</a></li>
-                            <li><a href="#">Website Accessibility</a></li>
-                        </ul>
+                       
                     </div>
                 </div>
             </div>
