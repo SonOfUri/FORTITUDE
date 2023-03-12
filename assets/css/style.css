@@ -1231,7 +1231,7 @@ select:visited {
   -webkit-transition: all 0.5s ease-in;
   transition: all 0.5s ease-in;
 }
-.mobile_menu_content .mobile-main-navigation {
+. .mobile-main-navigation {
   width: 100%;
 }
 .mobile_menu_content .mobile-main-navigation .navbar-nav {

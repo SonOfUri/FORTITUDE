@@ -26,7 +26,7 @@ template.innerHTML = `
                             <a href="#"><img src="assets/img/logo/logo-2.png" alt=""></a>
                         </div>
                         <div class="footer-text">
-                            The charms of pleasure of the empect moment, so blinded by desire, thats they cannot fores that ound to.
+                            Thank you for considering Fortitude Insurance Broker. Contact us today for personalized insurance solutions to protect your assets and provide peace of mind.
                         </div>
                         <div class="footer-social d-flex">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
