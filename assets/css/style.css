@@ -7480,7 +7480,7 @@ select:visited {
 }
 .in-breadcrumb-section .in-breadcrumb-content {
   overflow: hidden;
-  padding: 185px 0px;
+  padding: 85px 0px;
   margin-left: 60px;
   border-top-left-radius: 150px;
 }
@@ -10823,7 +10823,7 @@ select:visited {
     padding-top: 70px;
   }
   .in-breadcrumb-section .in-breadcrumb-content {
-    padding: 130px 0px;
+    padding: 70px 0px;
   }
   .shop-details-text-wrap {
     padding-left: 0;
