@@ -1828,7 +1828,7 @@ select:visited {
   z-index: -1;
   width: 470px;
   content: "";
-  height: 620px;
+  height: 740px;
   position: absolute;
   border-radius: 5px;
   border: 1px solid #ebebeb;
@@ -7480,7 +7480,7 @@ select:visited {
 }
 .in-breadcrumb-section .in-breadcrumb-content {
   overflow: hidden;
-  padding: 85px 0px;
+  padding: 135px 0px;
   margin-left: 60px;
   border-top-left-radius: 150px;
 }
@@ -10823,7 +10823,7 @@ select:visited {
     padding-top: 70px;
   }
   .in-breadcrumb-section .in-breadcrumb-content {
-    padding: 70px 0px;
+    padding: 130px 0px;
   }
   .shop-details-text-wrap {
     padding-left: 0;
@@ -11197,7 +11197,7 @@ select:visited {
     padding: 60px 0px;
   }
   .in-breadcrumb-section .in-breadcrumb-content {
-    padding: 80px 0px;
+    padding: 130px 0px;
   }
   .in-breadcrumb-title-content h2 {
     font-size: 32px;
