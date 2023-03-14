@@ -23,15 +23,15 @@ template.innerHTML = `
                 <div class="in-footer-widget">
                     <div class="logo-widget">
                         <div class="brand-logo">
-                            <a href="#"><img src="assets/img/logo/logo-2.png" alt=""></a>
+                            <a href="404.html"><img src="assets/img/logo/logo-2.png" alt=""></a>
                         </div>
                         <div class="footer-text">
                             Thank you for considering Fortitude Insurance Broker. Contact us today for personalized insurance solutions to protect your assets and provide peace of mind.
                         </div>
                         <div class="footer-social d-flex">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="404.html"><i class="fab fa-facebook-f"></i></a>
+                            <a href="404.html"><i class="fab fa-instagram"></i></a>
+                            <a href="404.html"><i class="fab fa-twitter"></i></a>
                         </div>
                     </div>
                 </div>
@@ -54,7 +54,7 @@ template.innerHTML = `
                                     <i class="fal fa-envelope-open-text"></i>
                                 </div>
                                 <div class="inner-text">
-                                    info@fortitudeinsurancebroker.com
+                                    info@Fortitudeinsurancebroker.com
                                     08056177035 / 09082333305
                                 </div>
                             </div>

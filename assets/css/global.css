@@ -11,6 +11,8 @@
   --transition: 500ms all ease;
   --main-color: #015fea;
   --base-color:  linear-gradient(to right,var(--gradiant-color-from),var(--gradiant-color-to));
+  --base-color-2:  linear-gradient(to right,var(--gradiant-color-to),var(--gradiant-color-from));
+
   --theme-color: #056251;
   --theme-color-2: #FFB966;
   --meta-font: 'Play', sans-serif;
