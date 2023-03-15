@@ -26,7 +26,7 @@ template.innerHTML = `
                             <a href="404.html"><img src="assets/img/logo/logo-2.png" alt=""></a>
                         </div>
                         <div class="footer-text">
-                            Thank you for considering Fortitude Insurance Broker. Contact us today for personalized insurance solutions to protect your assets and provide peace of mind.
+                            Thank you for considering Fortitude Insurance Brokers. Contact us today for personalized insurance solutions to protect your assets and provide peace of mind.
                         </div>
                         <div class="footer-social d-flex">
                             <a href="404.html"><i class="fab fa-facebook-f"></i></a>
@@ -46,7 +46,7 @@ template.innerHTML = `
                                     <i class="fal fa-map-marker-alt"></i>
                                 </div>
                                 <div class="inner-text">
-                                3B, Alhaja Agbeke Str, Lekki.
+                                3B, Alhaja Agbeke Str, Lekki, Lagos State.
                                 </div>
                             </div>
                             <div class="info-item d-flex align-items-center">
@@ -54,8 +54,8 @@ template.innerHTML = `
                                     <i class="fal fa-envelope-open-text"></i>
                                 </div>
                                 <div class="inner-text">
-                                    info@Fortitudeinsurancebroker.com
-                                    08056177035 / 09082333305
+                                    info@fortitudeinsuranceBrokers.com
+                                    +234 805 617 7035 +234 908 233 3305
                                 </div>
                             </div>
                             <div class="info-item d-flex align-items-center">
@@ -94,7 +94,7 @@ template.innerHTML = `
     <div class="in-footer-copyright-area d-flex justify-content-end">
         <div class="in-footer-copyright-text">
             <div class="inner-text d-flex justify-content-end">
-                Copyright © 2023Fortitude
+                Copyright ©2023Fortitude
             </div>
         </div>
     </div>
