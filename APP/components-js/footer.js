@@ -54,7 +54,7 @@ template.innerHTML = `
                                     <i class="fal fa-envelope-open-text"></i>
                                 </div>
                                 <div class="inner-text">
-                                    info@fortitudeinsuranceBrokers.com
+                                    info@fortitudeinsurancebrokers.com
                                     +234 805 617 7035 +234 908 233 3305
                                 </div>
                             </div>
