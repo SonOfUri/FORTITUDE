@@ -23,7 +23,7 @@ template.innerHTML = `
                 <div class="in-footer-widget">
                     <div class="logo-widget">
                         <div class="brand-logo">
-                            <a href="404.html"><img src="assets/img/logo/logo-2.png" alt=""></a>
+                            <a href="index.html"><img src="assets/img/logo/logo-2b.png" alt=""></a>
                         </div>
                         <div class="footer-text">
                             Thank you for considering Fortitude Insurance Brokers. Contact us today for personalized insurance solutions to protect your assets and provide peace of mind.
