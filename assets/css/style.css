@@ -3939,7 +3939,6 @@ select:visited {
 .in-cta-contact-section {
   overflow: hidden;
   padding: 120px 0px 130px;
-  border-top-left-radius: 120px;
   background-attachment: fixed;
 }
 .in-cta-contact-section .in-cta-info-2 {
